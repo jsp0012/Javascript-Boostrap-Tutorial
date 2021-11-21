@@ -1,0 +1,1 @@
+document.getElementById("deneme").innerHTML="deneme stringi degisti." // burada id değeri deneme olan tagın içindeki string değerini değiştirdik.
